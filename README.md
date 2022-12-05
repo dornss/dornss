@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Dorns 😁
+## Hello! Welcome to Gabriel's Github A.K.A. Dorns 😁
 
 <div>
   <a href="https://github.com/dornss">
