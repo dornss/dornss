@@ -1,7 +1,7 @@
 ## Hello! Welcome to Gabriel's Github A.K.A. Dorns 😁
 
 
-Those are my github's statistics!
+###Those are my github's statistics!
 
 <div>
   <a href="https://github.com/dornss">
@@ -10,7 +10,7 @@ Those are my github's statistics!
 </div>
 <br>
   
-Most used languages
+###Most used languages
   
 <div style="display: inline_block"><br>
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
@@ -21,7 +21,7 @@ Most used languages
  
 <br>
  
-My social media! :)
+###My social media! :)
  
 <div> 
   <a href="https://instagram.com/_dorns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
