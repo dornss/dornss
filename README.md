@@ -1,27 +1,28 @@
-## Hello! Welcome to Gabriel's Github A.K.A. Dorns 😁
+# Hello! Welcome to Gabriel's Github A.K.A. Dorns 😁
 
 
-Those are my github's statistics!
+## Those are my github's statistics!
 
 <div>
   <a href="https://github.com/dornss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dornss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornss&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <br>
   
-Most used languages
+## Skills
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
 <br>
  
-My social media! :)
+## My social media! :)
  
 <div> 
   <a href="https://instagram.com/_dorns" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
