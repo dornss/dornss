@@ -5,16 +5,16 @@
 
 ## Those are my github's statistics! :dart:
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/dornss">
-  <img width="35%" height="195px"src="https://github-readme-stats.vercel.app/api?username=dornss&show_icons=true&count_private=true&hide_border=true&title_color=abdbe3&icon_color=abdbe3&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel's GitHub Stats"/>
-  <img width="35%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornss&layout=compact&hide_border=true&title_color=abdbe3&text_color=abdbe3&bg_color=0d1117" />
+  <img width="38%" height="195px"src="https://github-readme-stats.vercel.app/api?username=dornss&show_icons=true&count_private=true&hide_border=true&title_color=abdbe3&icon_color=abdbe3&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel's GitHub Stats"/>
+  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornss&layout=compact&hide_border=true&title_color=abdbe3&text_color=abdbe3&bg_color=0d1117" />
 </div>
   
 ## Skills :rocket:
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">  
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
   <img align="center" alt="Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
