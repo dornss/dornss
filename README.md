@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="https://github.com/dornss">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dornss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="41%" height="195px"src="https://github-readme-stats.vercel.app/api?username=dornss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornss&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornss&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <br>
   
