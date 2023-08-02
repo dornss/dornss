@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/dornss">
   <img width="38%" height="195px"src="https://github-readme-stats.vercel.app/api?username=dornss&show_icons=true&count_private=true&hide_border=true&title_color=abdbe3&icon_color=abdbe3&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel's GitHub Stats"/>
-  <img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornss&layout=compact&hide_border=true&title_color=abdbe3&text_color=abdbe3&bg_color=0d1117"/>
+  <img width="29%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dornss&layout=compact&hide_border=true&title_color=abdbe3&text_color=abdbe3&bg_color=0d1117"/>
 </div>
   
 ## Skills :rocket:
@@ -25,13 +25,8 @@
  
 <br>
  
-## My social media! :)
+## Contact me! :)
  
 <div> 
   <a href = "mailto:gabriel.dornelas@ufpe.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabrielldornelas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
- ### Check out my commits with lil'snake :snake: :smile:
- 
-  ![Snake animation](https://github.com/dornss/dornss/blob/output/github-contribution-grid-snake.svg)
-</div>
